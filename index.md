@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Asignment 1</title>
+</head>
+<body>
+  <h1>Asignment 1</h1>
+  <p>Basic/simple HTML document - upload to GitHub and make GitHub Page</p>
+  <p>Languages to learn:</p>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JS</li>
+  </ul>
+  
+
+</body>
+</html>
